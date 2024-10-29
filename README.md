@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Gautam369-web
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning MERN
+- know more: https://gautam369-web.github.io/gautamWebsite/
 - 
 
 <!---
