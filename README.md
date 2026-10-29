@@ -33,7 +33,7 @@ const gautam = {
   projectDesc: "Student Living Ecosystem Platform",
 
   stack: ["Next.js", "MongoDB", "Tailwind"],
-  passion: "Building products that solve real problems",
+  passion: "Building products that solve real life problems",
 
   status: "Always building something 🔨"
 };
