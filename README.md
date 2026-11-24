@@ -45,7 +45,7 @@ const gautam = {
 
 **Stayzen79 🏠** is a **Student Living Ecosystem Platform** designed to simplify campus and off-campus student housing around university hubs like **LPU**.
 
-- **Core Stack:** `Next.js` · `MongoDB` · `Tailwind CSS`
+- **Core Stack:** `Next.js` · `MongoDB` · `Tailwind CSS` · `React.js`
 - **Key Capabilities:** Verified PG/hostel discovery, roommate compatibility matching, transparent pricing without broker friction, and hyperlocal student living services.
 - **Engineering Focus:** Fast Server-Side Rendering (SSR), scalable Mongoose/MongoDB schemas, and a clean mobile-first interface.
 
