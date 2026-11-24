@@ -41,7 +41,7 @@ const gautam = {
 
 ---
 
-### 🏠 Current Project — **Stayzen79**
+### 🏠 Current Project — **Uninest**
 
 **Stayzen79 🏠** is a **Student Living Ecosystem Platform** designed to simplify campus and off-campus student housing around university hubs like **LPU**.
 
