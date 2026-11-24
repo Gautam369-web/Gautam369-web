@@ -29,7 +29,7 @@ const gautam = {
   university: "LPU",
   role: "Full Stack Developer",
 
-  currentProject: "Stayzen79 🏠",
+  currentProject: "Uninest",
   projectDesc: "Student Living Ecosystem Platform",
 
   stack: ["Next.js", "MongoDB", "Tailwind"],
