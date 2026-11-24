@@ -23,7 +23,7 @@
 
 ```ts
 const gautam = {
-  name: "Gautam",
+  name: "Gautam Kumar Kushwaha",
   alias: "Gautam369",
   location: "Punjab, India 🇮🇳",
   university: "LPU",
