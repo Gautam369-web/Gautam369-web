@@ -35,7 +35,7 @@ const gautam = {
   stack: ["Next.js", "MongoDB", "Tailwind"],
   passion: "Building products that solve real life problems",
 
-  status: "Always building something 🔨"
+  status: "Always building something "
 };
 ```
 
